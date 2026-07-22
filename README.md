@@ -1,7 +1,7 @@
 # Quantum Computational Phase Transition in SAT problems
 **Group 2607 Project**
 
-This repository contains the implementation and analysis of the hybrid quantum-classical algorithm QAOA (Quantum Approximate Optimization Algorithm) applied to classic boolean satisfiability problems, with a specific focus on 2-SAT and preliminary results on 3-SAT problems. The project was structured within the LCP-B curriculum of the Master's degree in Physics of Data at the University of Padua.
+This repository contains the implementation and analysis of the hybrid quantum-classical algorithm QAOA (Quantum Approximate Optimization Algorithm) applied to classic boolean satisfiability problems, with a specific focus on 2-SAT and preliminary results on 3-SAT problems. The project was structured within the LCP-B curriculum of the Master's degree in Physics of Data at the University of Padua (see (here)[https://github.com/DanieleGhezzi25/LCP_B] for the full coursework repository).
 
 ## Project Objectives
 The main goal is to investigate the effectiveness of quantum circuits in tackling SAT optimization problems, analyzing whether and how they provide an advantage over classical solvers. Particular attention is given to the simulation of the phase transition between the SAT and UNSAT regimes as a function of the critical density $\alpha = m/n$ (with characteristic densities $\alpha_c=1$ for 2-SAT and $\alpha_c=4.26$ for 3-SAT).
